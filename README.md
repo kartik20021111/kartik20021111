@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile views](https://komainu8.github.io/profile-views-counter/api/?username=kartik20021111&color=58A6FF)
 
 </div>
 
