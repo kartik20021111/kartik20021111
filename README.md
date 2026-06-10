@@ -10,7 +10,6 @@
 
 <br/>
 
-
 </div>
 
 ---
@@ -34,6 +33,7 @@ Web Dev (HTML/JS)  ████████████████   Comfortabl
 React / Node.js    ████████░░░░░░░░   Getting there
 AI Agents          ██████░░░░░░░░░░   Experimenting
 Automation         ██████████░░░░░░   Actively exploring
+People Analytics   ██████████████░░   Actively building
 ```
 
 ---
@@ -47,6 +47,7 @@ Automation         ██████████░░░░░░   Actively e
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Dev Stack
@@ -56,6 +57,16 @@ Automation         ██████████░░░░░░   Actively e
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Analytics & Data
+<p>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observable-F7F7F7?style=for-the-badge&logo=observable&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -65,33 +76,82 @@ Automation         ██████████░░░░░░   Actively e
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
 ## 📦 Projects
 
-### 🧠 [SheetMind](https://github.com/kartik20021111/SheetMind)
-> AI-powered Excel assistant — ask questions about your data in plain English, get formulas, analysis, and reports back instantly. No spreadsheet expertise needed.
-`HTML` `JavaScript` `AI`
+### 📊 [Recruitment Funnel Analytics — People Analytics Project](https://github.com/kartik20021111/recruitment-funnel-analytics)
+> A full people analytics project built from scratch — 1,000 applicants · Jan 2023–Mar 2025 · 10 departments · 6 source channels · 30 hiring managers. Covers funnel drop-off, SLA compliance, source channel ROI, offer decline analysis, and workforce planning gaps. Full methodology documented and published.
+
+**Key findings surfaced:**
+- 🔴 SLA4 (offer stage) compliance at **33%** — 4 hiring managers at 0%
+- 🔴 Offer decline rate at **32.9%** — 2× the industry benchmark
+- 💡 Time to Fill vs Time to Hire gap of only **3.4 days** — reactive hiring hiding as a recruitment metric
+- ✅ Employee Referral outperforms every other channel on conversion, speed, and acceptance rate
+
+| 📈 [Live Dashboard (Looker Studio)](https://datastudio.google.com/u/0/reporting/7e1570b5-a045-428e-9aa9-a97edfcbcef5) | 📓 [Analytical Notebook (Observable)](https://observablehq.com/@kartik-sharma/recruitment-funnel-analytics-people-analytics-proj) |
+|---|---|
+| 🗂️ [Project Hub (Notion)](https://app.notion.com/p/Recruitment-Analytics-Project-Master-Hub-3750c9009543804ab2f7f8070eac66f4) | ✍️ [Medium Write-up](https://medium.com/@kartik.sharma_27196/what-i-learned-building-a-recruitment-analytics-project-that-no-org-will-show-you-9b738a6b0723) |
+
+`Google Sheets` `Airtable` `Looker Studio` `Observable` `Notion` `Obsidian` `Gemini` `People Analytics`
 
 ---
 
-### 👤 [Portfolio](https://kartik20021111.github.io)
-> Built my own portfolio site from scratch — zero coding background, learned as I went. Live on GitHub Pages.
-`HTML` `CSS` `GitHub Pages`
+### 🤖 [PeopleBot — HR Assistant](https://github.com/kartik20021111/kartik-hr-bot)
+> AI-powered HR assistant that answers policy questions, guides employees through processes, and reduces repetitive HR queries — built to show what an always-on People team support layer looks like in practice.
+
+🎥 **[Watch Demo](https://drive.google.com/file/d/1x9N9eYwrM4e2OlgporIc-u6CHc5SG5BU/view?usp=sharing)**
+
+`React` `Node.js` `Ollama` `Local AI`
+
+---
+
+### 📱 [The Kartikos — Personal OS App](https://github.com/kartik20021111/the-kartikos)
+> My own personal app built for myself — a single place for everything I need day-to-day: notes, alarms, news feed, sleep tracker, timers, reminders, and a self-care dashboard. One app instead of ten.
+
+🎥 **[Watch Demo & Screenshots](https://drive.google.com/drive/folders/1OZEN-lajR90QFMJ9CZGewnyxi0pS32A7?usp=sharing)**
+
+`HTML` `JavaScript` `CSS` `AI`
+
+---
+
+### 🎬 [Video Summarizer](https://github.com/kartik20021111/video-summarizer)
+> AI-powered tool that takes long-form video content and returns structured, readable summaries — built for L&D teams, researchers, and anyone who needs to extract knowledge from video without watching the whole thing.
+
+🎥 **[Watch Demo](https://drive.google.com/file/d/1cJwZyfbyFjrDbr6cqe7TI2jQyfl0GL1C/view?usp=sharing)**
+
+`Python` `AI` `LLM`
+
+---
+
+### 🧠 [SheetMind](https://github.com/kartik20021111/SheetMind)
+> AI-powered Excel assistant — ask questions about your data in plain English, get formulas, analysis, and reports back instantly. No spreadsheet expertise needed.
+
+`HTML` `JavaScript` `AI`
 
 ---
 
 ### 💸 [Budget Dashboard](https://github.com/kartik20021111/Budget-Dashboard)
 > A free, fully customisable personal budget tracker. No sign-ups, no data collection — just open and use it.
+
 `HTML` `JavaScript` `CSS`
 
 ---
 
-### 🤖 [PeopleBot — HR Assistant](https://github.com/kartik20021111/kartik-hr-bot)
-> AI-powered HR assistant that runs locally using Ollama. Answers HR policy questions, helps with onboarding, and more — all on your own machine.
-`React` `Node.js` `Ollama` `Local AI`
+### 👤 [Portfolio Website](https://kartik20021111.github.io)
+> Built my own portfolio site from scratch — zero coding background, learned as I went. Live on GitHub Pages.
+
+`HTML` `CSS` `GitHub Pages`
+
+---
+
+### 🌱 [Rooted](https://rooted-yuvm.vercel.app/) *(archived)*
+> An early product project — now closed. [Store](https://kartik111102.myinstamojo.com/) · [Live Site](https://rooted-yuvm.vercel.app/)
+
+`Vercel` `Instamojo`
 
 ---
 
@@ -125,7 +185,9 @@ If you're also learning by doing, feel free to reach out or fork anything here.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge)](https://kartik20021111.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-841629166/)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kartik.sharma_27196)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartik111102@gmail.com)
 
 <br/>
 <sub>Built with curiosity · Deployed with patience · Improved with feedback</sub>
