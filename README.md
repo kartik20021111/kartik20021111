@@ -119,11 +119,11 @@ People Analytics   ██████████████░░   Actively b
 
 ---
 
-### 🎬 [Video Summarizer](https://github.com/kartik20021111/videosummarizer)
+### 🎬 [Video Summarizer](videosummarizer-brown.vercel.app/)
 > AI-powered tool that takes long-form video content and returns structured, readable summaries — built for L&D teams, researchers, and anyone who needs to extract knowledge from video without watching the whole thing.
 
 🎥 **[Watch Demo](https://drive.google.com/file/d/1cJwZyfbyFjrDbr6cqe7TI2jQyfl0GL1C/view?usp=sharing)**
-😊 **[Live](videosummarizer-brown.vercel.app/)**
+😊 **[GitHub](https://github.com/kartik20021111/videosummarizer)**
 
 
 `Python` `AI` `LLM`
