@@ -148,8 +148,12 @@ People Analytics   ██████████████░░   Actively b
 
 ---
 
-### 🌱 [Rooted](https://rooted-yuvm.vercel.app/) *(archived)*
-> An early product project — now closed. [Store](https://kartik111102.myinstamojo.com/) · [Live Site](https://rooted-yuvm.vercel.app/)
+### 🌱 [Rooted](https://rooted-yuvm.vercel.app/)
+> A wellness product — live and open. Browse and buy directly from the store.
+
+🛍️ **[Shop Now](https://kartik111102.myinstamojo.com/)** · 🌐 **[Visit Site](https://rooted-yuvm.vercel.app/)**
+
+`Vercel` `Instamojo`
 
 `Vercel` `Instamojo`
 
