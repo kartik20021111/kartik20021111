@@ -100,11 +100,11 @@ People Analytics   ██████████████░░   Actively b
 
 ---
 
-### 🤖 [PeopleBot — HR Assistant](https://github.com/kartik20021111/kartik-hr-bot)
+### 🤖 [PeopleBot — HR Assistant](https://kartik-hr-bot-bn4l.vercel.app/)
 > AI-powered HR assistant that answers policy questions, guides employees through processes, and reduces repetitive HR queries — built to show what an always-on People team support layer looks like in practice.
 
 🎥 **[Watch Demo](https://drive.google.com/file/d/1x9N9eYwrM4e2OlgporIc-u6CHc5SG5BU/view?usp=sharing)**
-😊 **[Live Hosted - Just UI](kartik-hr-bot-bn4l.vercel.app/)**
+😊 **[GitHub]([kartik-hr-bot-bn4l.vercel.app/](https://github.com/kartik20021111/kartik-hr-bot))**
 
 `React` `Node.js` `Ollama` `Local AI`
 
