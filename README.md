@@ -104,6 +104,7 @@ People Analytics   ██████████████░░   Actively b
 > AI-powered HR assistant that answers policy questions, guides employees through processes, and reduces repetitive HR queries — built to show what an always-on People team support layer looks like in practice.
 
 🎥 **[Watch Demo](https://drive.google.com/file/d/1x9N9eYwrM4e2OlgporIc-u6CHc5SG5BU/view?usp=sharing)**
+😊 **[Live Hosted - Just UI](kartik-hr-bot-bn4l.vercel.app/)**
 
 `React` `Node.js` `Ollama` `Local AI`
 
@@ -122,6 +123,8 @@ People Analytics   ██████████████░░   Actively b
 > AI-powered tool that takes long-form video content and returns structured, readable summaries — built for L&D teams, researchers, and anyone who needs to extract knowledge from video without watching the whole thing.
 
 🎥 **[Watch Demo](https://drive.google.com/file/d/1cJwZyfbyFjrDbr6cqe7TI2jQyfl0GL1C/view?usp=sharing)**
+😊 **[Live](videosummarizer-brown.vercel.app/)**
+
 
 `Python` `AI` `LLM`
 
