@@ -109,7 +109,7 @@ People Analytics   ██████████████░░   Actively b
 
 ---
 
-### 📱 [The Kartikos — Personal OS App](https://github.com/kartik20021111/the-kartikos)
+### 📱 [The Kartikos — Personal OS App]
 > My own personal app built for myself — a single place for everything I need day-to-day: notes, alarms, news feed, sleep tracker, timers, reminders, and a self-care dashboard. One app instead of ten.
 
 🎥 **[Watch Demo & Screenshots](https://drive.google.com/drive/folders/1OZEN-lajR90QFMJ9CZGewnyxi0pS32A7?usp=sharing)**
