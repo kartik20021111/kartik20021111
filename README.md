@@ -158,8 +158,6 @@ People Analytics   ██████████████░░   Actively b
 
 `Vercel` `Instamojo`
 
-`Vercel` `Instamojo`
-
 ---
 
 ## 📊 GitHub Stats
