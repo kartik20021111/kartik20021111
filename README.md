@@ -104,7 +104,7 @@ People Analytics   ██████████████░░   Actively b
 > AI-powered HR assistant that answers policy questions, guides employees through processes, and reduces repetitive HR queries — built to show what an always-on People team support layer looks like in practice.
 
 🎥 **[Watch Demo](https://drive.google.com/file/d/1x9N9eYwrM4e2OlgporIc-u6CHc5SG5BU/view?usp=sharing)**
-😊 **[GitHub]([kartik-hr-bot-bn4l.vercel.app/](https://github.com/kartik20021111/kartik-hr-bot))**
+😊 **[GitHub](https://github.com/kartik20021111/kartik-hr-bot)**
 
 `React` `Node.js` `Ollama` `Local AI`
 
