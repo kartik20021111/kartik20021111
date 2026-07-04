@@ -83,6 +83,26 @@ People Analytics   ██████████████░░   Actively b
 
 ## 📦 Projects
 
+### 🌍 [Kartik Corp. Global L&D Framework — End-to-End L&D System](https://github.com/kartik20021111/kartik-corp-ld-framework-2026)
+> A complete Learning and Development operating system built for a fictional global MNC — not just training slides, but a full closed-loop system: needs analysis → programme design → LMS delivery → impact measurement. Built to demonstrate Senior L&D Specialist capability from diagnosis to proof.
+
+**What makes this different:**
+- 🔍 Started with a **Learning Needs Analysis** across 284 employees — diagnosed before designing anything
+- 🎓 Built a **live, completable LMS course** on TalentLMS with auto-issued certificates
+- 📊 Designed a **Figma analytics dashboard** showing NPS scores, completion rates, and regional breakdowns
+- 🌐 Built a **10-sub-page Notion Hub** as the employee-facing front door to the entire L&D function
+- 📋 Created **7 Google Forms** keeping the system two-directional — not just pushing content out
+
+| 🌐 [Notion L&D Hub ](https://app.notion.com/p/Kartik-Corp-L-D-Hub-37f0c900954380108a32f9b079fd8db3?source=copy_link)| 📊 [LNA Report](#) |
+|---|---|
+| 📈 [Figma Dashboard](https://bobbin-remote-61204176.figma.site/) | 🎓 [TalentLMS Course](https://kartikcorp.talentlms.com/plus/catalog) |
+| 🗺️ [Miro Journey Map](https://miro.com/app/board/uXjVHFjyMKA=/?share_link_id=768983481430) | ✍️ [Medium Write-up](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357) |
+| 📁 [Google Drive (all files)](https://drive.google.com/drive/folders/1pr6kIbuOFwHH_EgvyFkdiV_7KKNTMuw2?usp=sharing) | |
+
+`Notion` `Figma` `Google Sheets` `TalentLMS` `Canva` `Miro` `Google Forms` `PowerPoint`
+
+---
+
 ### 📊 [Recruitment Funnel Analytics — People Analytics Project](https://github.com/kartik20021111/recruitment-funnel-analytics)
 > A full people analytics project built from scratch — 1,000 applicants · Jan 2023–Mar 2025 · 10 departments · 6 source channels · 30 hiring managers. Covers funnel drop-off, SLA compliance, source channel ROI, offer decline analysis, and workforce planning gaps. Full methodology documented and published.
 
