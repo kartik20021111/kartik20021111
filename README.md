@@ -94,7 +94,7 @@ People Analytics   ██████████████░░   Actively b
 - 📋 Created **7 Google Forms** keeping the system two-directional — not just pushing content out
 
 | 🌐 [Notion L&D Hub ](https://app.notion.com/p/Kartik-Corp-L-D-Hub-37f0c900954380108a32f9b079fd8db3?source=copy_link)| 📊 [LNA Report](#) |
-|---|---|
+|---|---|---|
 | 📈 [Figma Dashboard](https://bobbin-remote-61204176.figma.site/) | 🎓 [TalentLMS Course](https://kartikcorp.talentlms.com/plus/catalog) |
 | 🗺️ [Miro Journey Map](https://miro.com/app/board/uXjVHFjyMKA=/?share_link_id=768983481430) | ✍️ [Medium Write-up](https://medium.com/@kartik111102/i-built-a-complete-l-d-system-from-scratch-here-is-the-exact-process-every-tool-and-why-it-works-d46075f5b357) |
 | 📁 [Google Drive (all files)](https://drive.google.com/drive/folders/1pr6kIbuOFwHH_EgvyFkdiV_7KKNTMuw2?usp=sharing) | |
